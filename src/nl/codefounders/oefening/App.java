@@ -23,7 +23,7 @@ public class App {
         //
 
 
-        // piet is hier een object. piet is een instantie van nl.defensie.oefening.model.mil.Person
+        // piet is hier een object. piet is een instantie van nl.voorraad.oefening.model.mil.Person
         // piet is een reference variable
 
         // let op:

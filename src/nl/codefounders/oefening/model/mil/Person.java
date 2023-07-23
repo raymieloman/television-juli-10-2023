@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 // class ::= template
 public abstract class Person {
-    // omdat nl.defensie.oefening.model.mil.Person abstract is, is het feitelijk een template class geworden
+    // omdat nl.voorraad.oefening.model.mil.Person abstract is, is het feitelijk een template class geworden
     private String name;
     private double weight;
     private LocalDate dateOfBirth;
