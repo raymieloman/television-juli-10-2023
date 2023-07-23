@@ -1,4 +1,4 @@
-package nl.defensie.oefening.model.tv;
+package nl.codefounders.oefening.model.tv;
 
 public interface Television {
     // interface methods are always 'public abstract'

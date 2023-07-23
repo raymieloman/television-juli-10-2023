@@ -1,20 +1,19 @@
-package nl.defensie.oefening.model.tv;
+package nl.codefounders.oefening.model.tv;
 
-public class Philips implements Television {
+public class Samsung implements Television {
 
     boolean isOn;
     int currentChannel;
 
-
     public void on() {
-        System.out.println("Philips switching on");
+        System.out.println("Samsung switching on");
         this.isOn = true;
         currentChannel = 1;
     }
 
     public void off() {
-        System.out.println("Philips switching off");
         this.isOn = false;
+        System.out.println("Samsung switching off");
         this.currentChannel = 0;
     }
 
@@ -26,6 +25,6 @@ public class Philips implements Television {
     }
 
     public int getCurrentChannel() {
-       return this.currentChannel;
+        return this.currentChannel;
     }
 }

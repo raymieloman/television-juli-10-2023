@@ -1,8 +1,8 @@
-package nl.defensie.oefening;
+package nl.codefounders.oefening;
 
-import nl.defensie.oefening.model.mil.Person;
-import nl.defensie.oefening.model.mil.Soldier;
-import nl.defensie.oefening.model.mil.SupportingPerson;
+import nl.codefounders.oefening.model.mil.Person;
+import nl.codefounders.oefening.model.mil.Soldier;
+import nl.codefounders.oefening.model.mil.SupportingPerson;
 
 import java.time.LocalDate;
 

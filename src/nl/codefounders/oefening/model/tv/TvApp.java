@@ -1,4 +1,4 @@
-package nl.defensie.oefening.model.tv;
+package nl.codefounders.oefening.model.tv;
 
 import java.util.ArrayList;
 import java.util.List;

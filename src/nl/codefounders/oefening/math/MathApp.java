@@ -1,4 +1,4 @@
-package nl.defensie.oefening.math;
+package nl.codefounders.oefening.math;
 
 public class MathApp {
 

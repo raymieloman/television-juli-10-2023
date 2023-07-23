@@ -1,4 +1,4 @@
-package nl.defensie.oefening.model.mil;
+package nl.codefounders.oefening.model.mil;
 
 import java.time.LocalDate;
 
